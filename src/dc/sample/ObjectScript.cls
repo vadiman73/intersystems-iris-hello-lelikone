@@ -10,4 +10,9 @@ ClassMethod Test() As %Status
     return a
 }
 
+ClassMethod TestTwo()
+{
+    return "New test"
+}
+
 }
